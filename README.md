@@ -20,6 +20,15 @@
 
 ---
 
+## 📄 Resume
+
+Looking to know more about my work and experience?  
+Check out my resume below 👇  
+
+[![Resume](https://img.shields.io/badge/View%20Resume-PDF-blue?style=for-the-badge&logo=adobeacrobatreader)](./Mubashir_Resume_2025.pdf)
+
+---
+
 ## 📫 Let’s Connect  
 - ✉️ Email: [mubashir15700@gmail.com](mailto:mubashir15700@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/mubashir-m-142811231](https://www.linkedin.com/in/mubashir-m-142811231/)  
