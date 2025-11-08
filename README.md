@@ -6,7 +6,7 @@
 
 ## 🚀 About Me  
 - 👨‍💻 Skilled in **JavaScript, TypeScript, React.js, Node.js, Express.js, NestJS, and MongoDB**  
-- 🛠️ Experienced with **REST APIs, MySQL, Prisma, Redis, Docker, AWS (EC2, S3), and CI/CD pipelines**  
+- 🛠️ Experienced with **REST APIs, MySQL, Prisma, Redis, RabbitMQ, Docker, AWS (EC2, S3), and CI/CD pipelines**  
 - 📊 Strong in **state management** (Redux Toolkit), **real-time features** (Socket.IO, WebSockets), and **secure payments** (Stripe, Razorpay)  
 - 🧪 Advocate of testing: **Jest, React Testing Library, Cypress**  
 - 🔧 Comfortable with **Git, GitHub, Bitbucket, Postman, Swagger, Jira**  
@@ -15,6 +15,7 @@
 
 ## 🌟 Featured Projects  
 - **[TaskTrack](https://github.com/Mubashir15700/TaskTrack)** – Skilled labor connection platform with real-time matching, chat, and payments.  
+- **[MicroSphere](https://github.com/Mubashir15700/MicroSphere)** – Node.js microservices with TypeScript, Docker, MongoDB, MySQL, Redis, RabbitMQ, Socket.IO, and a Next.js frontend.
 - **[StylesCraze](https://github.com/Mubashir15700/Ecommerce)** – E-commerce platform with authentication, payment integration, and admin-side inventory management.  
 - **[Form Builder](https://github.com/Mubashir15700/Form-Builder)** – Customizable form builder with drag-and-drop fields, RBAC, and submission tracking.  
 
