@@ -14,10 +14,10 @@
 ---
 
 ## 🌟 Featured Projects  
-- **[TaskTrack](https://github.com/Mubashir15700/TaskTrack)** – Skilled labor connection platform with real-time matching, chat, and payments.  
+- **[EduTech](https://github.com/Mubashir15700/edutech-course-directory)** – A MERN-based educational platform featuring real-time notifications, Stripe payments, and analytics dashboards.
 - **[MicroSphere](https://github.com/Mubashir15700/MicroSphere)** – Node.js microservices with TypeScript, Docker, MongoDB, MySQL, Redis, RabbitMQ, Socket.IO, and a Next.js frontend.
-- **[StylesCraze](https://github.com/Mubashir15700/Ecommerce)** – E-commerce platform with authentication, payment integration, and admin-side inventory management.  
-- **[Form Builder](https://github.com/Mubashir15700/Form-Builder)** – Customizable form builder with drag-and-drop fields, RBAC, and submission tracking.  
+- **[TaskTrack](https://github.com/Mubashir15700/TaskTrack)** – Skilled labor connection platform with real-time matching, chat, and payments.
+- **[StylesCraze](https://github.com/Mubashir15700/Ecommerce)** – E-commerce platform with authentication, payment integration, and admin-side inventory management. 
 
 ---
 
@@ -26,7 +26,7 @@
 Looking to know more about my work and experience?  
 Check out my resume below 👇  
 
-[![Resume](https://img.shields.io/badge/View%20Resume-PDF-blue?style=for-the-badge&logo=adobeacrobatreader)](./Mubashir_MERN_Stack_Developer_1year.pdf)
+[![Resume](https://img.shields.io/badge/View%20Resume-PDF-blue?style=for-the-badge&logo=adobeacrobatreader)](./Mubashir_FullStack_MERN_Developer_Resume.pdf)
 
 ---
 
