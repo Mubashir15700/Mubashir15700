@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Mubashir  
 
-💻 **Full Stack MERN Developer** with 1.4+ years of experience building scalable, feature-rich web applications in **e-commerce**, **learning management**, and **gig economy platforms**. I focus on writing **clean, maintainable code** and delivering solutions that improve both **user experience** and **business efficiency**.  
+💻 **Full Stack MERN Developer** with 1.3+ years of experience building scalable, feature-rich web applications in **e-commerce**, **learning management**, and **gig economy platforms**. I focus on writing **clean, maintainable code** and delivering solutions that improve both **user experience** and **business efficiency**.  
 
 ---
 
