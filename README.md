@@ -26,7 +26,7 @@
 Looking to know more about my work and experience?  
 Check out my resume below 👇  
 
-[![Resume](https://img.shields.io/badge/View%20Resume-PDF-blue?style=for-the-badge&logo=adobeacrobatreader)](./Mubashir_FullStack_MERN_Developer_Resume.pdf)
+[![Resume](https://img.shields.io/badge/View%20Resume-PDF-blue?style=for-the-badge&logo=adobeacrobatreader)](./Mubashir_FullStack_Developer_Resume.pdf)
 
 ---
 
